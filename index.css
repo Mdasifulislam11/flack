@@ -1,0 +1,28 @@
+.aa{
+    width: 20px;
+    height: 350px;
+    background-color: red;
+    padding-top: 30px;
+    margin-bottom: 30px;
+
+}
+.aaa{
+    width: 400px;
+    height: 150px;
+    background-color: green;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 30px;
+    
+
+}
+.aaaa{
+    height: 70px;
+    width: 100px;
+    background-color: red;
+    border-radius: 60%;
+    display: inline-block;
+    padding-top: 30px;
+    
+    
+}
